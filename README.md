@@ -8,5 +8,3 @@ It is designed to bypass four distinct anti-scraping mechanisms:
 3. Captchas.
 4. Header consistency checks.
 
-The scraper is not actually functional because Zipru is not a real site.
-The code, however, is otherwise complete and can easily be adapted to work on other sites.
